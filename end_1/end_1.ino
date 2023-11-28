@@ -54,5 +54,5 @@ void loop() {
     display.print(" cm");
   }
 
-  display.display();
+  display.display(); //將緩衝區資料顯示在螢幕上
 }
